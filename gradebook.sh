@@ -9,7 +9,7 @@
 # - jq
 
 org=vvv{yy}-{course}
-team=vvv{yy}-students
+team=vvv-school/vvv{yy}-students
 curdir=$(pwd)
 
 if [ -d build ]; then
